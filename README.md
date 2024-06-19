@@ -28,7 +28,7 @@ I'm a passionate and dedicated Computer Science and Engineering student at Pranv
 - 👯 I’m looking to collaborate on: Open-source projects and innovative web applications.
 - 💬 Ask me about: Web development, Python projects, and competitive programming.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashishverma4822/) | [Email](mailto:vashishk2003@gmail.com)
-- ⚡ Fun fact: I have solved over 550 problems on LeetCode and 450 problems on GeeksforGeeks!
+- ⚡ Fun fact: I have solved over 600 problems on LeetCode and 450 problems on GeeksforGeeks!
 
 ## Skills
 
