@@ -1,71 +1,123 @@
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=👋%20Hey,%20I'm%20Ashish%20Kumar%20Verma!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+Problem+Solver;Passionate+about+DSA+and+System+Design;Open+to+Collaborations+and+Learning+New+Tech;Engineer+@+Nagarro+(Incoming+2025)">
+</p>
 
-<!--
-**ashishverma4822/ashishverma4822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Ashish Kumar Verma**, a passionate **Computer Science Engineer** from **Pranveer Singh Institute of Technology, Kanpur (AKTU)** 🎓.  
+Currently working as an **Associate Engineer at Nagarro (Full-Stack Java Developer)**.  
 
-# Hi there, I'm Ashish Kumar Verma 👋
+I love building scalable apps, solving algorithmic challenges, and contributing to impactful tech solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashishverma4822&color=green)
+- 🔭 Currently working on: **Scalable backend systems with Spring Boot & Node.js**  
+- 🌱 Learning: **Advanced React, Microservices, and Cloud Deployment**  
+- 👯 Open to collaborate on: **Open Source & Innovative Projects**  
+- 💬 Ask me about: **Web Development, Java, React, DSA, and System Design**  
+- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/-Ashish_Verma-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashishverma4822/) | [![Gmail](https://img.shields.io/badge/-vashishk2003@gmail.com-red?logo=Gmail&logoColor=white)](mailto:vashishk2003@gmail.com)
+- ⚡ Fun fact: I’ve solved **850+ DSA problems** across LeetCode, GFG, and CodeChef 🚀  
 
-## About Me
+---
 
-I'm a passionate and dedicated Computer Science and Engineering student at Pranveer Singh Institute Of Technology, Kanpur (AKTU). My interests lie in software development, problem-solving, and building efficient applications. I enjoy working with various technologies and constantly learning new things.
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on: Enhancing my real-time chat application and exploring advanced data structures and algorithms.
-- 🌱 I’m currently learning: Advanced React.js and backend optimizations with Node.js.
-- 👯 I’m looking to collaborate on: Open-source projects and innovative web applications.
-- 💬 Ask me about: Web development, Python projects, and competitive programming.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashishverma4822/) | [Email](mailto:vashishk2003@gmail.com)
-- ⚡ Fun fact: I have solved over 600 problems on LeetCode and 450 problems on GeeksforGeeks!
+**Languages:**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql)
 
-## Skills
+**Frontend:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-Here are some of the technologies and tools I work with:
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens)
 
-- **Programming Languages**: ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
-- **Frontend Technologies**: ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
-- **Backend Technologies**: ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![OAuth](https://img.shields.io/badge/-OAuth-333333?style=flat&logo=oauth) ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens)
-- **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
-- **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-- **Soft Skills**: Problem-solving, Troubleshooting, Teamwork, Time Optimization, Active Listening
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql)
 
-## Projects
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
-Here are some of the projects I've been working on:
+---
 
-- [**Text And Speech Tool**](https://github.com/ashishverma4822/Project/tree/main/Project%20(22-23)/Final_Prohect_file): A suite of language processing tools including text-to-speech converter, speech-to-text converter, language translator, and word dictionary. Achieved 95% accuracy in speech recognition and optimized text processing efficiency by 30%. Tech: Python, tkinter, googletrans, pyttsx3, speech recognition.
-- [**Chat Analyzer for WhatsApp**](https://github.com/ashishverma4822/Project/tree/main/Whatsapp%20Chat%20Analyzer): A tool designed to analyze WhatsApp conversations, extracting insights, trends, and patterns with 90% efficiency. Tech: Python, streamlit, matplotlib, pandas.
-- [**Showcase: My Work and Skills**](https://ashishverma4822.github.io/portFolio/): An online portfolio to highlight my skills and projects, built using Node.js and Express.js. Tech: HTML, CSS, JavaScript.
-- [**Real-Time Chat App**](https://aa-uchat-0-1.onrender.com/): A real-time chat application supporting up to 100 simultaneous users with minimal latency. Tech: Node.js, Express.js, Socket.io.
+## 🚀 Featured Projects  
 
-## Contact Me
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**URL Shortener**](https://github.com/ashishverma4822/URLShortener-Node.js-) | Built a microservices-based URL shortening system with RESTful APIs and analytics. | Node.js, Express, MongoDB |
+| [**Real-Time Chat App**](https://github.com/ashishverma4822/Real-TIme-Aa-uChat-0.1) | WebSocket-based chat app with user rooms, presence tracking, and real-time updates. | Node.js, Socket.io, JS |
+| [**Chat Analyzer**](https://github.com/ashishverma4822/Project/tree/main/Whatsapp%20Chat%20Analyzer) | Analyzes WhatsApp chat data to find trends and insights with 90% efficiency. | Python, Streamlit, Pandas |
+| [**Portfolio Website**](https://aashiishverma-portfolio.vercel.app) | Showcases my work, projects, and achievements. | React.js, Tailwind CSS |
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ashishverma4822/) or [Email](mailto:vashishk2003@gmail.com). You can also check out my competitive programming profiles and repositories:
+---
 
-- [LeetCode](https://leetcode.com/vashishk0602/)
-- [CodeChef](https://www.codechef.com/users/vashishk0602)
-- [Codeforces](https://codeforces.com/profile/vashishk0602)
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vashishk0602)
+## 🏆 Achievements  
 
-## GitHub Stats
+- 🧠 **Knight (LeetCode, Rating 1877)**  
+- 🥇 **GFG 4★ (Rating 1843)**  
+- 🧩 **CodeChef (Rating 1629)**  
+- 💥 **4921 Rank – Meta Hackercup Round 1 (2024)**  
+- 🚀 **3577 Rank – Google Farewell Round A (2023)**  
+- 🎯 **Qualified GATE CS 2024**  
+- 💡 Solved **850+ DSA Problems** across LeetCode, GFG, CodeChef, and Codeforces  
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishverma4822&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishverma4822&layout=compact&theme=radical)
+---
 
-## Thanks for visiting my profile!
+## 🎓 Certifications  
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate on any project or just want to say hi! 😊
+- 🏅 SQL (Intermediate) — HackerRank  
+- 🎖️ Java Programming — HackerRank  
+- 🧰 C++ Essentials — Udemy  
+- ⚙️ Flipkart Grid 5.0 (Level 1.1 & 1.2) — National Tech Challenge  
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishverma4822&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishverma4822&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishverma4822&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashishverma4822/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ashishverma4822"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:vashishk2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/vashishk0602/"><img src="https://img.shields.io/badge/-LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/vashishk0602"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/vashishk0602"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=120&section=footer" />
+</p>
