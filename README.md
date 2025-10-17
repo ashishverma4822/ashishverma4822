@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ashish+Kumar+Verma;Full+Stack+Developer+%7C+System+Design+;Java+%7C+Node.js+%7C+Spring+Boot;Problem+Solver+%7C+GATE+CS+Qualifier" />
 </p>
 
----
 
 ## About Me  
 
@@ -23,7 +22,6 @@ Currently **Associate Engineer at Nagarro (Full Stack Java Developer)** — I fo
 - **Fun fact:** I’ve solved **850+ coding problems** and still learning something new every day!  
 - **Goal:** To architect high-performance, scalable applications that create impact  
 
----
 
 ## Tech Stack & Expertise  
 
@@ -32,7 +30,6 @@ Currently **Associate Engineer at Nagarro (Full Stack Java Developer)** — I fo
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,c&perline=6" />
 </p>
 
----
 
 ### **Core CS & System Design**
 <p align="center">
@@ -43,21 +40,18 @@ Currently **Associate Engineer at Nagarro (Full Stack Java Developer)** — I fo
   <img src="https://img.shields.io/badge/Database%20Design-00BFFF?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
 
 ### **Backend & APIs**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,mongodb,mysql,postman,graphql&perline=6" />
 </p>
 
----
 
 ### **Frontend & UI/UX**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,figma&perline=6" />
 </p>
 
----
 
 ## Achievements  
 
@@ -68,8 +62,6 @@ Currently **Associate Engineer at Nagarro (Full Stack Java Developer)** — I fo
 - **3577 Rank – Google Farewell Round A (2023)**  
 - **Qualified GATE CS 2024**  
 - **Solved 850+ DSA Problems**  
-
----
 
 ## YouTube Channel  
 
@@ -97,7 +89,6 @@ Check out my channel for tutorials, walkthroughs, and coding insights!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishverma4822&theme=react-dark&hide_border=true&area=true&custom_title=Ashish%20Kumar%20Verma's%20Contribution%20Graph" />
 </p>
 
----
 
 ## Developer Trophy Case  
 
@@ -105,7 +96,6 @@ Check out my channel for tutorials, walkthroughs, and coding insights!
   <img src="https://github-profile-trophy.vercel.app/?username=ashishverma4822&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
----
 
 ## Connect With Me  
 
