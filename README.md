@@ -71,8 +71,6 @@ Currently **Associate Engineer at Nagarro (Full Stack Java Developer)** — I fo
 
 ---
 
----
-
 ## YouTube Channel  
 
 I create content on coding, DSA problems, development projects, and tech tips.  
