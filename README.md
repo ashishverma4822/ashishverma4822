@@ -5,7 +5,7 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ashish+Kumar+Verma+👋;Full+Stack+Developer+%7C+System+Design+Enthusiast;Java+%7C+Node.js+%7C+React+%7C+Spring+Boot;Problem+Solver+%7C+GATE+CS+Qualifier+%7C+Engineer+@+Nagarro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ashish+Kumar+Verma;Full+Stack+Developer+%7C+System+Design+Enthusiast;Java+%7C+Node.js+%7C+React+%7C+Spring+Boot;Problem+Solver+%7C+GATE+CS+Qualifier+%7C+Engineer+@+Nagarro" />
 </p>
 
 ---
@@ -83,14 +83,6 @@ Check out my channel for tutorials, walkthroughs, and coding insights!
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
   </a>
 </p>
-
-<!-- Latest video preview (if supported) -->
-<p align="center">
-  <a href="https://www.youtube.com/@vashishk0602" target="_blank">
-    <img src="https://github-readme-youtube-stats.vercel.app/api/video?username=vashishk0602&theme=tokyonight" alt="Latest YouTube Video" />
-  </a>
-</p>
-
 
 ## GitHub Stats & Contributions  
 
