@@ -75,19 +75,19 @@ Currently **Associate Engineer at Nagarro (Full Stack Java Developer)** — I fo
 
 ## YouTube Channel  
 
-I create content on **coding, DSA, and real-world development projects** — helping others learn through my experience.  
-Check out my channel for **tutorials, LeetCode solutions, and tech discussions**!  
+I create content on coding, DSA problems, development projects, and tech tips.  
+Check out my channel for tutorials, walkthroughs, and coding insights!  
 
 <p align="center">
-  <a href="https://www.youtube.com/@YourChannelName" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  <a href="https://www.youtube.com/@vashishk0602" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
   </a>
 </p>
 
-<!-- Optional: auto-updating latest video section -->
+<!-- Latest video preview (if supported) -->
 <p align="center">
-  <a href="https://www.youtube.com/@YourChannelName">
-    <img src="https://github-readme-youtube-stats.vercel.app/api/video?username=YourChannelName&theme=tokyonight" alt="Latest YouTube Video" />
+  <a href="https://www.youtube.com/@vashishk0602" target="_blank">
+    <img src="https://github-readme-youtube-stats.vercel.app/api/video?username=vashishk0602&theme=tokyonight" alt="Latest YouTube Video" />
   </a>
 </p>
 
