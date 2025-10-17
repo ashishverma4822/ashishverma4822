@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=200&section=header&text=%20Ashish%20Kumar%20Verma%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=100&section=header&text=%20Ashish%20Kumar%20Verma%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- TYPING INTRO -->
