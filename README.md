@@ -61,24 +61,36 @@ Currently **Associate Engineer at Nagarro (Full Stack Java Developer)** — I fo
 
 ## Achievements  
 
-**Knight (LeetCode, Rating 1877)**  
-**4★ GFG (Rating 1843)**  
-**1629 – CodeChef Rating**  
-**4921 Rank – Meta Hackercup Round 1 (2024)**  
-**3577 Rank – Google Farewell Round A (2023)**  
-**Qualified GATE CS 2024**  
-**Solved 850+ DSA Problems**  
+- **Knight (LeetCode, Rating 1877)**  
+- **4★ GFG (Rating 1843)**  
+- **1629 – CodeChef Rating**  
+- **4921 Rank – Meta Hackercup Round 1 (2024)**  
+- **3577 Rank – Google Farewell Round A (2023)**  
+- **Qualified GATE CS 2024**  
+- **Solved 850+ DSA Problems**  
 
 ---
 
-## Certifications  
-
-**SQL (Intermediate)** — HackerRank  
-**Java Programming** — HackerRank  
-**C++ Essentials** — Udemy  
-**Flipkart Grid 5.0 (Level 1.1 & 1.2)** — National Tech Challenge  
-
 ---
+
+## YouTube Channel  
+
+I create content on **coding, DSA, and real-world development projects** — helping others learn through my experience.  
+Check out my channel for **tutorials, LeetCode solutions, and tech discussions**!  
+
+<p align="center">
+  <a href="https://www.youtube.com/@YourChannelName" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
+</p>
+
+<!-- Optional: auto-updating latest video section -->
+<p align="center">
+  <a href="https://www.youtube.com/@YourChannelName">
+    <img src="https://github-readme-youtube-stats.vercel.app/api/video?username=YourChannelName&theme=tokyonight" alt="Latest YouTube Video" />
+  </a>
+</p>
+
 
 ## GitHub Stats & Contributions  
 
