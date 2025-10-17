@@ -108,7 +108,6 @@ Check out my channel for tutorials, walkthroughs, and coding insights!
   <a href="https://www.codechef.com/users/vashishk0602"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=120&section=footer" />
