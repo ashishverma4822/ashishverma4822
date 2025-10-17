@@ -1,81 +1,109 @@
-<!-- Header with Animated Banner -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://github.com/ashishverma4822/ashishverma4822/assets/your-banner-image.gif" alt="Ashish Kumar Verma Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=200&section=header&text=🚀%20Ashish%20Kumar%20Verma%20🚀&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<!-- Typing Animation -->
+<!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ashish+Kumar+Verma+👋;Full+Stack+Developer+%7C+Java+%7C+Node.js+%7C+React;Problem+Solver+%7C+GATE+CS+Qualifier+%7C+DSA+Knight;Open+to+collaboration+and+learning+new+technologies!" />
-</p>
-
----
-
-## 🌟 About Me  
-
-> 💡 “Building systems that are fast, functional, and future-ready.”  
-
-🎓 **Computer Science Engineer** from *Pranveer Singh Institute of Technology, Kanpur (AKTU)*.  
-💼 **Associate Engineer @ Nagarro (2025)** — Full Stack Java Developer.  
-💻 I love designing clean architectures, optimizing algorithms, and experimenting with emerging tech.  
-
-- 🔭 Working on **microservices, cloud deployment, and backend scalability**
-- 🌱 Learning **Spring Boot, React advanced patterns, and DevOps**
-- 💬 Ask me about **Java, React, DSA, and real-world project building**
-- ⚡ Fun fact: I’ve solved **850+ coding problems** across platforms 🚀
-- 🎯 Goal: To contribute to impactful open-source and scalable software
-
----
-
-## 🛠️ Tech Arsenal  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,html,css,tailwind,mongodb,mysql,git,postman,linux,spring,vscode&perline=8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ashish+Kumar+Verma+👋;Full+Stack+Developer+%7C+System+Design+Enthusiast;Java+%7C+Node.js+%7C+React+%7C+Spring+Boot;Problem+Solver+%7C+GATE+CS+Qualifier+%7C+Engineer+@+Nagarro" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects  
+## 💫 About Me  
 
-### 🔗 [URL Shortener – Microservices-based](https://github.com/ashishverma4822/URLShortener-Node.js-)  
-> Scalable URL shortening system using Node.js, Express, MongoDB with analytics and REST APIs.  
-`Tech:` Node.js • Express • MongoDB • REST API • Microservices  
+> 💡 *“Code. Learn. Build. Repeat.”*  
 
-### 💬 [Real-Time Chat App](https://github.com/ashishverma4822/Real-TIme-Aa-uChat-0.1)  
-> Socket.io based live chat app supporting rooms, online presence, and instant messaging.  
-`Tech:` Node.js • Socket.io • Express • JavaScript  
+I'm **Ashish Kumar Verma**, a passionate **Full Stack Developer & Problem Solver** from *Pranveer Singh Institute of Technology (AKTU)*.  
+Currently **Associate Engineer at Nagarro (Full Stack Java Developer)** — I focus on building scalable backends, optimizing systems, and solving complex problems through clean architecture and algorithms.  
 
-### 📊 [WhatsApp Chat Analyzer](https://github.com/ashishverma4822/Project/tree/main/Whatsapp%20Chat%20Analyzer)  
-> AI-powered text analysis of WhatsApp chats — identifies trends, sentiment, and engagement.  
-`Tech:` Python • Streamlit • Pandas • Matplotlib  
+- 🔭 **Working on:** Microservices, Cloud Deployments, and Backend Optimization  
+- 🌱 **Learning:** System Design, Spring Boot, Docker, and Advanced React  
+- 💬 **Ask me about:** DSA, Web Development, REST APIs, or System Design  
+- ⚡ **Fun fact:** I’ve solved **850+ coding problems** and still learning something new every day!  
+- 🎯 **Goal:** To architect high-performance, scalable applications that create impact  
 
-### 🌐 [Portfolio Website](https://aashiishverma-portfolio.vercel.app)  
-> Interactive developer portfolio showcasing skills and projects.  
-`Tech:` React.js • Tailwind CSS • Framer Motion  
+---
+
+## 🧠 Tech Stack & Expertise  
+
+### 🖥️ **Programming Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,c&perline=6" />
+</p>
+
+---
+
+### 🧩 **Core CS & System Design**
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-4B0082?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Design-00BFFF?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ **Backend & APIs**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,mongodb,mysql,postman,graphql&perline=6" />
+</p>
+
+---
+
+### 🎨 **Frontend & UI/UX**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,figma&perline=6" />
+</p>
+
+---
+
+### ☁️ **DevOps, Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea,postman&perline=7" />
+</p>
+
+---
+
+### 🧰 **Soft Skills**
+💬 Problem Solving • 🔍 Debugging • 👥 Teamwork • 🧭 Adaptability • 🕒 Time Optimization • 🧠 Logical Thinking  
+
+---
+
+## 🚀 Featured Projects  
+
+| 🌟 Project | 💡 Description | 🛠️ Tech Stack |
+|-------------|----------------|----------------|
+| [**URL Shortener (Microservices)**](https://github.com/ashishverma4822/URLShortener-Node.js-) | Scalable URL shortener with analytics, REST APIs, and unique key generation. | Node.js, Express, MongoDB, REST |
+| [**Real-Time Chat App**](https://github.com/ashishverma4822/Real-TIme-Aa-uChat-0.1) | WebSocket-based chat app with room features and presence tracking. | Node.js, Socket.io, JS |
+| [**WhatsApp Chat Analyzer**](https://github.com/ashishverma4822/Project/tree/main/Whatsapp%20Chat%20Analyzer) | Analyzes chat trends, sentiments, and participation metrics. | Python, Streamlit, Pandas |
+| [**Portfolio Website**](https://aashiishverma-portfolio.vercel.app) | Interactive portfolio showcasing skills and projects. | React.js, Tailwind CSS |
 
 ---
 
 ## 🏆 Achievements  
 
-🏅 **Knight – LeetCode (1877)**  
-⭐ **4★ – GeeksforGeeks (1843)**  
+🏅 **Knight (LeetCode, Rating 1877)**  
+⭐ **4★ GFG (Rating 1843)**  
 🥇 **1629 – CodeChef Rating**  
 🚀 **4921 Rank – Meta Hackercup Round 1 (2024)**  
 💥 **3577 Rank – Google Farewell Round A (2023)**  
-🎯 **GATE CS 2024 Qualified**  
-📈 Solved **850+ DSA Problems**
+🎯 **Qualified GATE CS 2024**  
+📈 **Solved 850+ DSA Problems**  
 
 ---
 
-## 🧠 Certifications  
+## 🧾 Certifications  
 
-🎓 **SQL (Intermediate)** – HackerRank  
-📜 **Java Programming** – HackerRank  
-⚙️ **C++ Essentials** – Udemy  
-🏁 **Flipkart Grid 5.0 (Level 1.1 & 1.2)** – National Tech Challenge  
+🎓 **SQL (Intermediate)** — HackerRank  
+💡 **Java Programming** — HackerRank  
+⚙️ **C++ Essentials** — Udemy  
+🏁 **Flipkart Grid 5.0 (Level 1.1 & 1.2)** — National Tech Challenge  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Contributions  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashishverma4822&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
@@ -86,9 +114,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishverma4822&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishverma4822&theme=react-dark&hide_border=true&area=true&custom_title=Ashish%20Kumar%20Verma's%20Contribution%20Graph" />
+</p>
+
 ---
 
-## 🏅 Developer Trophies  
+## 🏅 Developer Trophy Case  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ashishverma4822&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
@@ -96,15 +128,7 @@
 
 ---
 
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishverma4822&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🌐 Connect with Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashishverma4822/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
