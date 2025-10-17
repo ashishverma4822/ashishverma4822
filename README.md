@@ -5,7 +5,7 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ashish+Kumar+Verma;Full+Stack+Developer+%7C+System+Design+;Java+%7C+Node.js+%7C+%7C+Spring+Boot;Problem+Solver+%7C+GATE+CS+Qualifier+%7C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ashish+Kumar+Verma;Full+Stack+Developer+%7C+System+Design+;Java+%7C+Node.js+%7C+Spring+Boot;Problem+Solver+%7C+GATE+CS+Qualifier" />
 </p>
 
 ---
